@@ -1,0 +1,9 @@
+body {
+  font-family: "Noto Sans", sans-serif;
+  font-family: "Poppins", sans-serif;
+  background: url('../src/Assets/BG-4.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  color:gainsboro;
+}
