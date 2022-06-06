@@ -1,4 +1,4 @@
-## Weathe App 2.0
+## Weather App 2.0
 <img src="src/Assets/weatherapp.png" alt="wa" />
 <br/>
 
