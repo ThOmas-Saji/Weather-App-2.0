@@ -29,6 +29,7 @@ export default function Signup() {
       !inputData.password
     ) {
       setCheck(true);
+      alert("This feature is comming soon !")
       return;
     } else {
       setCheck(false);

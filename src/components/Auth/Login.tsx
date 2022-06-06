@@ -17,11 +17,10 @@ export default function Login() {
   const handleLogin = () => {
     if (!inputData.username || !inputData.password) {
       setCheck(true);
-      console.log("enter full details");
       return;
     } else {
       setCheck(false);
-      console.log(inputData);
+      alert("This feature is comming soon !")
     }
   };
 
