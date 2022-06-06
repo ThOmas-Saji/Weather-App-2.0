@@ -1,4 +1,5 @@
 ## Weather App 2.0
+<a href="https://weather-app-2-0-snowy.vercel.app/" > <h2> Live view 👈🏼</h2></a>
 <img src="src/Assets/weatherapp.png" alt="wa" />
 <br/>
 
