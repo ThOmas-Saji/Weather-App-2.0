@@ -28,11 +28,11 @@ export default function Signup() {
       !inputData.email ||
       !inputData.password
     ) {
-      setCheck(true);
-      alert("This feature is comming soon !")
+      setCheck(true);  
       return;
     } else {
       setCheck(false);
+      alert("This feature is comming soon !")
       // axios
       //   .post(`https://masai-api-mocker.herokuapp.com/auth/register`, inputData)
       //   .then((data) => console.log(data))
